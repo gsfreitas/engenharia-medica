@@ -10,7 +10,7 @@ O curso aborda técnicas básicas de extração de informação, reconhecimento 
 ## Atividades
 * **Atividade probabilidades:** https://github.com/gsfreitas/engenharia-medica/blob/main/atividade_probabilidades.ipynb
 * **Construção do espaço de características:** https://github.com/gsfreitas/engenharia-medica/blob/main/atividade_pratica_2.ipynb
-* **Pré-processamento e seleção de características: ROC:** https://github.com/gsfreitas/engenharia-medica/blob/main/atividade_pratica_3.ipynb
+* **Pré-processamento e seleção de características: ROC (em andamento):** https://github.com/gsfreitas/engenharia-medica/blob/main/atividade_pratica_3.ipynb
 
 ## Contatos
 * **Linkedin:** https://www.linkedin.com/in/gabrielsfreitas/
