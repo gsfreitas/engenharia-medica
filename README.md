@@ -1,4 +1,4 @@
-[![Author](https://img.shields.io/badge/author-Gabriel_Freitas-purple.svg)](https://www.linkedin.com/in/gabrielsfreitas/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![Author](https://img.shields.io/badge/author-Gabriel_Freitas-purple.svg)](https://www.linkedin.com/in/gabrielsfreitas/) [![](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
 <p align="center">
   <img src="classifiers.png" >
