@@ -14,6 +14,7 @@ O curso aborda técnicas básicas de extração de informação, reconhecimento 
 * **Seleção e transformação do espaço de características:** https://github.com/gsfreitas/engenharia-medica/blob/main/atividade_pratica_4.ipynb
 * **Projetando um espaço de classificação:** https://github.com/gsfreitas/engenharia-medica/blob/main/atividade_pratica_5.ipynb
 * **Classificador Bayesiano e de distância mínima:** https://github.com/gsfreitas/engenharia-medica/blob/main/atividade_pratica_6.ipynb
+* **Classificadores lineares: Perceptron, LS e FDA:** 
 
 ## Contatos
 * **Linkedin:** https://www.linkedin.com/in/gabrielsfreitas/
